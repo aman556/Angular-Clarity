@@ -22,3 +22,8 @@ A new directory has been created in the directory where you ran above command. C
 ```
 ng serve
 ```
+## How to generate components in Angular JS?
+To generate a components you can run below command.
+```
+npm generate component <name-of-component>
+```
